@@ -1,0 +1,11 @@
+bs4
+pymongo
+requests
+docker
+flask
+flask-restful
+marshmallow
+rq
+redis
+rq-dashboard
+blessings

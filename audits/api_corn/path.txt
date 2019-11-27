@@ -1,0 +1,5 @@
+admin/sign_in
+auth/sign_in
+api/auth
+api/sign_in
+admin/auth
